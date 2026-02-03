@@ -62,6 +62,11 @@ If hosted (e.g., via GitHub Pages), add a demo link here:
 
 ---
 
+## Why this project?
+This project was built to deeply understand how cellular automata work,
+focusing on clean logic and readability rather than using external libraries.
+
+
 ## License
 
 This project is open-source and available under the MIT License.
