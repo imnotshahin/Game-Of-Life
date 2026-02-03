@@ -58,7 +58,7 @@ Inputs:
 ## Live Demo (optional)
 
 If hosted (e.g., via GitHub Pages), add a demo link here:  
-👉 [Live Demo](https://imnotshahin.github.io/game-of-life)
+👉 [Live Demo](https://imnotshahin.github.io/Game-Of-Life)
 
 ---
 
